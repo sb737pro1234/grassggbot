@@ -1,4 +1,4 @@
-package me.sbpro.grassggstaffbot.config;
+package me.sbpro.grassggbot.config;
 
 import java.io.IOException;
 import java.io.InputStream;

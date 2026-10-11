@@ -1,6 +1,6 @@
-package me.sbpro.grassggstaffbot.listeners;
+package me.sbpro.grassggbot.listeners;
 
-import me.sbpro.grassggstaffbot.config.BotConfig;
+import me.sbpro.grassggbot.config.BotConfig;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Guild;
 import net.dv8tion.jda.api.entities.Member;
@@ -26,7 +26,6 @@ import net.dv8tion.jda.api.interactions.commands.DefaultMemberPermissions;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.time.Instant;
 import java.time.ZoneOffset;
 import java.time.ZonedDateTime;
 import java.util.ArrayList;

@@ -1,7 +1,7 @@
-package me.sbpro.grassggstaffbot;
+package me.sbpro.grassggbot;
 
-import me.sbpro.grassggstaffbot.config.BotConfig;
-import me.sbpro.grassggstaffbot.listeners.PunishmentListener;
+import me.sbpro.grassggbot.config.BotConfig;
+import me.sbpro.grassggbot.listeners.PunishmentListener;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 
