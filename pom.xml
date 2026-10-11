@@ -64,7 +64,7 @@
                             <transformers>
                                 <transformer implementation=
                                                      "org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>me.sbpro.grassggstaffbot.GrassGGStaffBot</mainClass>
+                                    <mainClass>me.sbpro.grassggstaffbot.GrassGGBot</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>

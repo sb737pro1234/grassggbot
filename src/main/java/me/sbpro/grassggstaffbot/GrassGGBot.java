@@ -5,7 +5,7 @@ import me.sbpro.grassggstaffbot.listeners.PunishmentListener;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 
-public final class GrassGGStaffBot {
+public final class GrassGGBot {
 
     private static JDA jda;
 
